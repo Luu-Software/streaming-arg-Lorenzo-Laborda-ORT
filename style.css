@@ -52,7 +52,6 @@ a:hover
   gap: 68px;
   align-self: stretch;
   flex-wrap: wrap;
-  padding: 25px;
 }
 
 
@@ -64,8 +63,10 @@ footer {
   display: flex;
   justify-content: space-between;
   border-top: #f2f2f2 1px solid;
-  margin: 100px; 
-  padding: 40px;
+  margin: 50px; 
+  padding: 50px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .icons {
